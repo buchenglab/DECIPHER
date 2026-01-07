@@ -1,6 +1,6 @@
 DECIPHER is a modular software package for vibrational hyperspectral image enhancement and analysis.
 
-The entire data-processing workflow has been restructured into a streamlined, modular pipeline comprising four customizable stages: hyperspectral image enhancement, background correction, spectral signature identification, and spectral unmixing.
+The protocol is a streamlined, modular pipeline comprising four customizable stages: hyperspectral image enhancement, background correction, spectral signature identification, and spectral unmixing.
 
 1. Hyperspectral image enhancement. In the first stage, we incorporated methods to correct shading and temporal drift and introduced two denoising algorithms, BM4D and SPEND, for hyperspectral image denoising. These methods mitigate imaging artifacts and improve the signal-to-noise ratio (SNR), enabling more robust spectral unmixing in subsequent steps.
    
